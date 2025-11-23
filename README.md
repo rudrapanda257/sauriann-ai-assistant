@@ -32,13 +32,13 @@ It's Silent, Smart, and Always On Top - Your AI-powered meeting companion.
 
 ### Windows
 
-1. Download `Angel AI Meeting Assistant Setup 1.0.0.exe` from [Releases](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)
+1. Download `Angel AI Meeting Assistant Setup 1.0.0.exe`from [Releases](https://github.com/rudrapanda257/sauriann-ai-assistant/releases)
 2. Run the installer
 3. Launch the app
 
 ### macOS
 
-1. Download `Angel AI Meeting Assistant.dmg` from [Releases](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)
+1. Download `Angel AI Meeting Assistant.dmg` from [Releases](https://github.com/rudrapanda257/sauriann-ai-assistant/releases)
 2. Drag to Applications
 3. Launch the app
 
@@ -46,8 +46,7 @@ It's Silent, Smart, and Always On Top - Your AI-powered meeting companion.
 
 You need a **Google Gemini API key** (free):
 
-1. Get it from [Google AI Studio](https://aistudio.google.com/app/apikey)
-2. Add to `main.js`: `const GEMINI_API_KEY = 'your-key-here'`
+1.Download from [Releases](https://github.com/rudrapanda257/sauriann-ai-assistant/releases) 2. Add to `main.js`: `const GEMINI_API_KEY = 'your-key-here'`
 
 You also need **Google Cloud credentials** for speech-to-text:
 
